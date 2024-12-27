@@ -1,5 +1,5 @@
 # Personal_portfolio
-![Preview](img\readme.png)
+![Preview](readme.png)
 ### 🔗 **Live preview** of the project is [here](https://gowtham6477.github.io/Personal_portfolio/).
 
 ## About the Project
