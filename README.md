@@ -1,5 +1,5 @@
 # Personal_portfolio
-![Preview](img\Responsive Personal Portfolio website - Google Chrome 26-12-2024 19_04_57.png)
+![Preview](img\readme.png)
 ### 🔗 **Live preview** of the project is [here](https://gowtham6477.github.io/Personal_portfolio/).
 
 ## About the Project
