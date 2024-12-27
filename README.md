@@ -11,11 +11,10 @@
 - **Let’s Connect Form** – Easy contact options for collaboration
 ## Features
 
-- **Search by City**: Enter any city name to get its current weather details.
-- **Real-Time Updates**: Reset the time to zero.
-- **Time Display**: Enter any city name to get its current weather details.
-- **Dynamic Background**: The background dynamically changes based on the weather condition (e.g., sunny, rainy, cloudy).
-- **User-Friendly Interface**: Designed with a clean and responsive layout for a seamless user experience on all devices.
+- **Responsive Design**: Mobile-friendly and adapts to all screen sizes.
+- **Interactive UI**: Smooth transitions and animations.
+- **Contact Form**: Built-in form for easy communication.
+- **Projects Section**: Displays my work with live previews and GitHub links.
 
 ### **Outcome:**
 - **HTML5**: Structuring the web page.
