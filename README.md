@@ -9,7 +9,7 @@
 - **What I Do** – Technologies and tools I specialize in.
 - **Projects** – Highlights of my best work.
 - **Let’s Connect Form** – Easy contact options for collaboration
-## 🚀 Features
+## Features
 
 - **Search by City**: Enter any city name to get its current weather details.
 - **Real-Time Updates**: Reset the time to zero.
