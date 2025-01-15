@@ -8,7 +8,7 @@
 - **About Me** – My journey, skills, and aspirations.
 - **What I Do** – Technologies and tools I specialize in.
 - **Projects** – Highlights of my best work.
-- **Let’s Connect Form** – Easy contact options for collaboration
+- **Let’s Connect Form** – Easy contact options for collaboration.
 ## Features
 
 - **Responsive Design**: Mobile-friendly and adapts to all screen sizes.
