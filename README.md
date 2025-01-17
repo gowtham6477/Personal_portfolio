@@ -11,7 +11,7 @@
 - **Let’s Connect Form** – Easy contact options for collaboration.
 ## Features
 
-- **Responsive Design**: Mobile-friendly and adapts to all screen sizes.
+- **Responsive Design**: Mobile-friendly and adapts to all screen sizes
 - **Interactive UI**: Smooth transitions and animations.
 - **Contact Form**: Built-in form for easy communication.
 - **Projects Section**: Displays my work with live previews and GitHub links.
