@@ -19,4 +19,4 @@
 ### **Outcome:**
 - **HTML5**: Structuring the web page.
 - **CSS3**: Styling and layout design.
-- **JavaScript**: Interactive and dynamic functionalities
+- **JavaScript**: Interactive and dynamic functionalities.
