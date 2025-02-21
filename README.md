@@ -5,7 +5,7 @@
 ## About the Project
 **This is my personal portfolio website designed to showcase:**
 
-- **About Me** – My journey, skills, and aspirations..
+- **About Me** – My journey, skills, and aspirations...
 - **What I Do** – Technologies and tools I specialize in.
 - **Projects** – Highlights of my best work.
 - **Let’s Connect Form** – Easy contact options for collaboration.
