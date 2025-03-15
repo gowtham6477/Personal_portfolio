@@ -1,6 +1,6 @@
 # Personal portfolio
 ![Preview](readme.png)
-### 🔗 **Live preview** of the project is [here](https://gowtham6477.github.io/Personal_portfolio/).
+### 🔗 **Live preview** of the project is [here](https://gowtham6477.github.io/Personal_portfolio/).  
 
 ## About the Project
 **This is my personal portfolio website designed to showcase:**
