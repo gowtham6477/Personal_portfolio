@@ -55,4 +55,36 @@ const typed = new Typed('.multiple-text',
 
 });
 
+// EmailJS Configuration
+(function(){
+    emailjs.init("8svHja4WmLd9AA0bk"); // Replace with your EmailJS public key
+})();
+
+// Contact Form Handler
+document.getElementById('contact-form').addEventListener('submit', function(event) {
+    event.preventDefault();
+    
+    // Show loading state
+    const submitBtn = document.querySelector('input[type="submit"]');
+    const originalText = submitBtn.value;
+    submitBtn.value = 'Sending...';
+    submitBtn.disabled = true;
+    
+    // Send email using EmailJS
+    emailjs.sendForm('service_zm0n3of', 'template_3x8h62c', this)
+        .then(function(response) {
+            console.log('SUCCESS!', response.status, response.text);
+            alert('Message sent successfully! Thank you for contacting me.');
+            document.getElementById('contact-form').reset();
+        }, function(error) {
+            console.log('FAILED...', error);
+            alert('Failed to send message. Please try again or contact me directly.');
+        })
+        .finally(function() {
+            // Reset button state
+            submitBtn.value = originalText;
+            submitBtn.disabled = false;
+        });
+});
+
 
