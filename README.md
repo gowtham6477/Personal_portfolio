@@ -9,7 +9,6 @@
 - **Projects** – Highlights of my best work.
 - **Let’s Connect Form** – Easy contact options for collaboration.
 ## Features
-
 - **Responsive Design**: Mobile-friendly and adapts to all screen sizes.
 - **Interactive UI**: Smooth transitions and animations.
 - **Contact Form**: Built-in form for easy communication.
